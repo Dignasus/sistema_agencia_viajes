@@ -18,6 +18,11 @@ Este fue uno de mis primeros proyectos formativos como Analista Programador. Es 
 * `/docs`: Diagramas de arquitectura (UML) del sistema.
 * `database.sql`: Script con la estructura de las tablas de la base de datos. *(Nota: Si tienes este archivo, es ideal subirlo para que otros puedan crear la base de datos)*.
 
+## Arquitectura del Sistema
+El proyecto fue diseñado utilizando Programación Orientada a Objetos (POO). A continuación se presenta el modelo de clases que estructura la lógica de usuarios, reservas y paquetes turísticos:
+
+![Diagrama de Clases](docs/diagrama_clases.png)
+
 ## Cómo ejecutarlo localmente
 1. Clona este repositorio: `git clone https://github.com/Dignasus/TU-REPOSITORIO.git`
 2. Abre **XAMPP** e inicia los servicios de **Apache** y **MySQL**.
